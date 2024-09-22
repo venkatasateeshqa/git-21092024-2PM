@@ -3,4 +3,6 @@ public class Test {
     public int age;
     public String mobileNo;
     public String address;
+    public String state;
+    public String country;
 }
